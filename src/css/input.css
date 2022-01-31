@@ -1,0 +1,3 @@
+@tailwind base; /* mereset style css default */
+@tailwind components; /* mengambil component */
+@tailwind utilities; /* class utilities */
